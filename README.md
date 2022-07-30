@@ -19,3 +19,5 @@
 - imes = i;
 - ober = o;
 - ufat = u;
+
+Confira através do link:  https://fabio-pn.github.io/codificador-decodificador/
